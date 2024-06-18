@@ -1,0 +1,3 @@
+lista = ["luz", 'luz','poste','feijão','tomate','tomate','alface','arroz','arroz']
+lista2 = list(set(lista))
+print(lista2)
